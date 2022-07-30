@@ -12,13 +12,8 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232f3e)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhugestar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhugestar&exclude_rep=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
 ## Leetcode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yhugesatar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
