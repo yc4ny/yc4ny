@@ -1,9 +1,7 @@
-### Hi I'm Yonwoo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi I'm Yonwoo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyc4ny&count_bg=%2379C83D&title_bg=%23DFD6D6&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Major: Computer Science
-- Education: University of Virginia, Virginia
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyc4ny&count_bg=%2379C83D&title_bg=%23DFD6D6&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- Education: University of Virginia
 
 ### Languages and Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
