@@ -15,11 +15,11 @@
 ![](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=5C3EE8)
 ![](https://img.shields.io/badge/OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=5586A4)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 
 ### Tools
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=#44A833)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 
 ### Platforms
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
