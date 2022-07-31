@@ -4,14 +4,18 @@
 - Major: Computer Science
 - Education: University of Virginia
 
-### Languages and Tools
+### Languages
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
 ![](https://img.shields.io/badge/Matlab-informational?style=flat&logo=matlab&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=F09820)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=00599C)
+
+### Tools
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=#44A833)
+
+### Platforms
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 
