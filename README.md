@@ -6,6 +6,7 @@
 ### Languages and Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=#44A833)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
