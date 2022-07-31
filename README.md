@@ -12,7 +12,10 @@
 
 ### Libaries
 ![](https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=5C3EE8)
+![](https://img.shields.io/badge/OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=5586A4)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 
 ### Tools
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
