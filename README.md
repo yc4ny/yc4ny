@@ -21,6 +21,6 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
 
-### Top Langs
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
 
