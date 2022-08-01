@@ -8,7 +8,7 @@ University of Virginia,    BA in Computer Science
 ### Languages
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=F09820)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=00599C)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
 ![](https://img.shields.io/badge/Matlab-informational?style=flat&logo=matlab&logoColor=white&color=0052CC)
 
 ### Libaries
