@@ -29,13 +29,11 @@
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 
 
-
-### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
