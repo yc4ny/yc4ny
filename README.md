@@ -31,7 +31,6 @@
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
