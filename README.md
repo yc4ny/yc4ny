@@ -24,6 +24,7 @@
 
 ### Platforms
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=macos&logoColor=white&color=#E95420)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 
 
