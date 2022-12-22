@@ -20,7 +20,7 @@
 ### Tools
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=#44A833)
+![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=44A833)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 
 ### Platforms
