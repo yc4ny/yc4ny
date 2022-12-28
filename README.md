@@ -8,9 +8,9 @@
     <img src="imgs/kyunggi.jpg" alt="Kyunggi" style="width:200px;height:200px">
 </div>
 
-Seoul National University, MS in Computer Science and Engineering
-University of Virginia,    BA in Computer Science
-Kyunggi High School
+Seoul National University, MS in Computer Science and Engineering <br/>
+University of Virginia,    BA in Computer Science<br/>
+Kyunggi High School<br/>
 
 ### Languages
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
