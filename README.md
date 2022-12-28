@@ -3,8 +3,10 @@
  
 ### Education
 <img src="imgs/snu.jpg" alt="SNU">
+
 #### Seoul National University, MS in Computer Science and Engineering
 <img src="imgs/uva.jpg" alt="UVA">
+
 #### University of Virginia,    BA in Computer Science
 
 ### Languages
