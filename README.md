@@ -37,7 +37,8 @@ Kyunggi High School<br/>
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 
 
-:keyboard: ### Leetcode 
+:keyboard: 
+### Leetcode 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Github Stats
