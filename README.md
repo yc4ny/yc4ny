@@ -3,9 +3,8 @@
  
 ### Education
 <img src="imgs/snu.jpg" alt="SNU" style="width:200px;height:200px">
-
-#### Seoul National University, MS in Computer Science and Engineering
 <img src="imgs/uva.jpg" alt="UVA" style="width:200px;height:200px">
+#### Seoul National University, MS in Computer Science and Engineering
 
 #### University of Virginia,    BA in Computer Science
 
