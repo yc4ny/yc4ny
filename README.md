@@ -55,9 +55,9 @@ Kyunggi High School<br/>
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=yc4ny&theme=github"/>
-</div>
+</div> -->
 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/yc4ny?template=classic&config.timezone=Asia%2FShanghai"/>
