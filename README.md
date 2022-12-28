@@ -3,7 +3,6 @@
  
 ### Education
 <div class = "container">
-                    
     <img src="imgs/snu.jpg" alt="SNU" style="width:200px;height:200px">
     <img src="imgs/uva.jpg" alt="UVA" style="width:200px;height:200px">
     <img src="imgs/kyunggi.jpg" alt="Kyunggi" style="width:200px;height:200px">
