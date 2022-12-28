@@ -56,7 +56,7 @@ Kyunggi High School<br/>
 </div>
 
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=yc4ny&theme=github"/>
 </div>
 
 <div align="center">
