@@ -8,8 +8,8 @@
 ### Languages
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=F09820)
-![](https://img.shields.io/badge/Matlab-informational?style=flat&logo=matlab&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=joplin&logoColor=white&color=F09820)
+![](https://img.shields.io/badge/Matlab-informational?style=flat&logo=monster&logoColor=white&color=0052CC)
 
 ### Libaries
 ![](https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
