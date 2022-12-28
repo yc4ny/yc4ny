@@ -46,7 +46,7 @@ Kyunggi High School<br/>
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-# 🔭Actions
+### Actions
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yc4ny"/>
@@ -62,4 +62,3 @@ Kyunggi High School<br/>
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/yc4ny?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
- 
