@@ -41,6 +41,9 @@ British School of Brussels
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 
+### <samp>Leetcode</samp> 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
+	
 ### <samp>Actions</samp>
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yc4ny"/>
@@ -48,9 +51,6 @@ British School of Brussels
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
-
-### <samp>Leetcode</samp> 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
 ### <samp>Github Stats</samp>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=view)](https://github.com/anuraghazra/github-readme-stats)
