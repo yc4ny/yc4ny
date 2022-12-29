@@ -49,15 +49,6 @@ British School of Brussels
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div>
-### <samp>Leetcode</samp> 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
-</div>
-<div>
-### <samp>Github Stats</samp>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=view)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 ### <samp>Leetcode</samp> 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
