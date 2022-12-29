@@ -13,6 +13,7 @@
 Seoul National University, MS in Computer Science and Engineering <br/>
 University of Virginia,    BA in Computer Science<br/>
 Kyunggi High School<br/>
+British School of Brussels
   </samp>
 
 ### Languages
