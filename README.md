@@ -6,7 +6,7 @@
     <img src="imgs/snu.jpg" alt="SNU" style="width:100px;height:100px">
     <img src="imgs/uva.jpg" alt="UVA" style="width:100px;height:100px">
     <img src="imgs/kyunggi.jpg" alt="Kyunggi" style="width:100px;height:100px">
-    <img src="imgs/bsb.jpg" alt="BSB" style="width:100px;height:100px">
+    <img src="imgs/bsb.jpg" alt="BSB" style="width:90px;height:90px">
 </div>
 
 <p align="left">
