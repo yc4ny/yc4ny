@@ -4,8 +4,8 @@
 ### Education
 <div class = "container">
     <img src="imgs/snu.jpg" alt="SNU" style="width:100px;height:100px">
-    <img src="imgs/uva.jpg" alt="UVA" style="width:100px;height:100px">
-    <img src="imgs/kyunggi.jpg" alt="Kyunggi" style="width:100px;height:100px">
+    <img src="imgs/uva.jpg" alt="UVA" style="width:95px;height:95px">
+    <img src="imgs/kyunggi.jpg" alt="Kyunggi" style="width:105px;height:105px">
     <img src="imgs/bsb.jpg" alt="BSB" style="width:95px;height:95px">
 </div>
 
