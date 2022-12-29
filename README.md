@@ -8,7 +8,7 @@
     <img src="imgs/kyunggi.jpg" alt="Kyunggi" style="width:100px;height:100px">
 </div>
 
-<p align="center">
+<p align="left">
   <samp>
 Seoul National University, MS in Computer Science and Engineering <br/>
 University of Virginia,    BA in Computer Science<br/>
