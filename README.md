@@ -49,10 +49,6 @@ British School of Brussels
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/yc4ny?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
-
 ### <samp>Leetcode</samp> 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
 
