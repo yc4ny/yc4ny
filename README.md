@@ -47,9 +47,6 @@ Kyunggi High School<br/>
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yc4ny"/>
 </div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
 
 ### <samp>Github Stats</samp>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
