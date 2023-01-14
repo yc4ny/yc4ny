@@ -53,7 +53,7 @@ British School of Brussels
 </div>
 
 ### <samp>Github Stats</samp>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=view)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <samp>Top Languages</samp>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
