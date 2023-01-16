@@ -49,7 +49,7 @@ Kyunggi High School<br/>
 </div>
 
 ### <samp>Github Stats</samp>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <samp>Top Languages</samp>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?)username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
