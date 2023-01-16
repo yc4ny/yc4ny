@@ -52,4 +52,4 @@ Kyunggi High School<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc4ny&show_icons=true&theme=radical)
 
 ### <samp>Top Languages</samp>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4ny&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
