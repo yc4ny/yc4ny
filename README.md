@@ -42,8 +42,3 @@ Kyunggi High School<br/>
 
 ### <samp>Leetcode</samp> 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yhugestar)](https://github.com/KnlnKS/leetcode-stats)
-	
-### <samp>Actions</samp>
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yc4ny"/>
-</div>
