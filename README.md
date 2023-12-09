@@ -11,6 +11,7 @@
 
 <p align="left">
   <samp>
+Seoul National University, MS in Computer Science and Engineering
 University of Virginia,    BA in Computer Science<br/>
   </samp>
 
