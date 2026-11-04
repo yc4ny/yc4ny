@@ -28,5 +28,4 @@ My research focuses on **human-centered 3D computer vision**: capturing, underst
 ## Education
 
 - **Seoul National University** — M.S. in Computer Science and Engineering
-  Advisor: Hanbyul Joo
-- **University of Virginia** — B.A. in Computer Science, 2021  
+- **University of Virginia** — B.A. in Computer Science
