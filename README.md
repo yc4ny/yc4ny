@@ -12,7 +12,7 @@ My research focuses on **human-centered 3D computer vision**: capturing, underst
 - **SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**  
   **Yonwoo Choi**  
   CVPR Workshop, 2025  
-  [Paper](https://arxiv.org/abs/2505.05475)) ·[Project](https://yc4ny.github.io/SVAD/) · [Code](https://github.com/yc4ny/SVAD)
+  [Paper](https://arxiv.org/abs/2505.05475) ·[Project](https://yc4ny.github.io/SVAD/) · [Code](https://github.com/yc4ny/SVAD)
 
 ## Experience
 
