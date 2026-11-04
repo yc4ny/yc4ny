@@ -1,7 +1,3 @@
-# Yonwoo Choi
-
-Algorithm Engineer at **GenGenAI**, working on controllable image and video generation.
-
 My research focuses on **human-centered 3D computer vision**: capturing, understanding, and reconstructing people in 3D. I am interested in human motion, animatable avatars, and egocentric perception.
 
 [Website](https://yc4ny.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=yJDdtlgAAAAJ) · [Email](mailto:yonwoo@gengen.ai)
@@ -20,10 +16,13 @@ My research focuses on **human-centered 3D computer vision**: capturing, underst
 
 ## Experience
 
-| Period | Role | Focus |
-| --- | --- | --- |
-| Sep 2025 - Present | Algorithm Engineer, **GenGenAI** | Controllable image and video generation |
-| Mar 2024 - Sep 2025 | Research Engineer, **SECERN AI** | Animatable 3D human avatars |
+- **GenGenAI** · Algorithm Engineer  
+  *Sep 2025 - Present*  
+  Controllable image and video generation.
+
+- **SECERN AI** · Research Engineer  
+  *Mar 2024 - Sep 2025*  
+  Animatable 3D human avatars.
 
 ## Education
 
